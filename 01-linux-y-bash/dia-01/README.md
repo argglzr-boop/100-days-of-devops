@@ -35,7 +35,7 @@ docker ps -a
 
 ---
 
-## Retos y Solución de Problemas (Troubleshooting)
+## ⚠️ Retos y Solución de Problemas (Troubleshooting)
 
 * **Problema:** [Error o bloqueo encontrado durante el laboratorio]
 * **Causa raíz:** [Por qué ocurrió el fallo]
