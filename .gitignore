@@ -1,0 +1,80 @@
+# =======================================================
+# 1. METADATOS DEL SISTEMA OPERATIVO (macOS)
+# =======================================================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# =======================================================
+# 2. SEGURIDAD Y CREDENCIALES (CRÍTICO EN DEVOPS)
+# =======================================================
+# Variables de entorno y secretos
+.env
+.env.*
+!.env.example
+secrets.yaml
+vault_pass.txt
+
+# Llaves privadas y certificados
+*.pem
+*.key
+*.pub.local
+id_rsa*
+id_ed25519*
+*.pfx
+*.p12
+
+# Credenciales de proveedores Cloud
+credentials
+*.credentials
+.aws/
+.kube/config
+
+# =======================================================
+# 3. EDITOR Y ENTORNO LOCAL (VS Code)
+# =======================================================
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+*.swp
+*.swo
+*~
+
+# =======================================================
+# 4. HERRAMIENTAS DEVOPS (Labs y Proyectos)
+# =======================================================
+# Terraform (archivos de estado con contraseñas e infra real)
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+*.tfvars
+*.tfvars.json
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Ansible
+*.retry
+
+# Vagrant / VirtualBox
+.vagrant/
+
+# Docker (volúmenes locales y paquetes)
+*.tar.gz
+*.tar
+
+# =======================================================
+# 5. LOGS Y ARCHIVOS TEMPORALES
+# =======================================================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+tmp/
+temp/
