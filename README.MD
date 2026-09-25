@@ -1,0 +1,1 @@
+Bienvenido a mi repositorio de documentación para el reto **100 Days of DevOps** (basado en la ruta de aprendizaje de KodeKloud). Este espacio funciona como mi portafolio técnico, bitácora de aprendizaje y repositorio de laboratorios prácticos.
