@@ -1,12 +1,11 @@
-```markdown
-# Día [XX]: [Nombre del Tema / Reto de KodeKloud]
+Día [XX]: [Nombre del Tema / Reto de KodeKloud]
+Foco: [Linux / Docker / Kubernetes / Terraform / CI/CD]
 
-> **Foco:** [Linux / Docker / Kubernetes / Terraform / CI/CD]  
-> **Fecha:** [DD/MM/AAAA]  
-> **Estado:** [⏳ En progreso / ✅ Completado]  
 
-```
+Fecha: [DD/MM/AAAA]
 
+
+Estado: [⏳ En progreso / ✅ Completado]
 ---
 
 ## 🎯 Objetivo de la Sesión
