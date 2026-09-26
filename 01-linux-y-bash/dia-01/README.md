@@ -1,12 +1,24 @@
-# Día [XX]: [Nombre del Tema / Reto de KodeKloud]
+# 🗓️ Día [XX] — [Nombre del Tema / Reto de KodeKloud]
 
-**Foco:** [Linux / Docker / Kubernetes / Terraform / CI/CD]
-**Fecha:** [DD/MM/AAAA]
-**Estado:** [⏳ En progreso / ✅ Completado]
+<div align="center">
+
+![Foco](https://img.shields.io/badge/Foco-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Estado](https://img.shields.io/badge/Estado-En%20progreso-yellow?style=for-the-badge)
+![Fecha](https://img.shields.io/badge/Fecha-DD/MM/AAAA-informational?style=for-the-badge)
+
+</div>
+
+> Cambia el badge de **Foco** según corresponda: `Linux` `Docker` `Kubernetes` `Terraform` `CI/CD`
+> Cambia el color/texto de **Estado**: 🟡 `En progreso` · 🟢 `Completado` · 🔴 `Bloqueado`
+
+---
 
 ## 🎯 Objetivo de la Sesión
 
-- [Propósito principal de la práctica en 1 o 2 oraciones]
+> [!TIP]
+> **Meta principal:** [Propósito principal de la práctica en 1 o 2 oraciones]
+
+---
 
 ## 💻 Práctica y Comandos Principales
 
@@ -15,18 +27,53 @@ docker run -d --name mi-app -p 8080:80 nginx:alpine
 docker ps -a
 ```
 
-## ⚠️ Retos y Solución de Problemas (Troubleshooting)
+| Comando | ¿Para qué sirve? |
+|---|---|
+| `docker run` | Crea y arranca un contenedor |
+| `docker ps -a` | Lista todos los contenedores |
 
-- **Problema:** 
-- **Causa raíz:** 
-- **Solución aplicada:** 
+---
+
+## ⚠️ Retos y Solución de Problemas
+
+> [!WARNING]
+> **🧩 Problema:**
+> [Descripción del error o bloqueo encontrado]
+
+**🔍 Causa raíz:**
+[Explicación del origen del problema]
+
+**✅ Solución aplicada:**
+[Pasos o comando que resolvió el problema]
+
+```bash
+# Comando de la solución (si aplica)
+```
+
+---
 
 ## 📝 Conclusiones y Aprendizaje
 
-1. [Aprendizaje técnico principal o comando nuevo descubierto]
-2. [Buena práctica identificada durante el ejercicio]
+- [ ] 💡 [Aprendizaje técnico principal o comando nuevo descubierto]
+- [ ] 🌟 [Buena práctica identificada durante el ejercicio]
+- [ ] 🔁 [Algo que repasarías / practicarías de nuevo]
+
+---
+
+## 🏷️ Tags
+
+`#kodekloud` `#docker` `#devops` `#100diasdedevops`
+
+---
 
 ## 🔗 Recursos y Artefactos
 
-- [Laboratorio de KodeKloud](https://kodekloud.com/)
-- [Archivos de configuración del día](./)
+- 📘 [Laboratorio de KodeKloud](https://kodekloud.com/)
+- 📁 [Archivos de configuración del día](./)
+
+<div align="center">
+
+---
+⬅️ [Día anterior](#) · 🏠 [Índice general](#) · ➡️ [Día siguiente](#)
+
+</div>
