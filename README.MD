@@ -4,11 +4,11 @@ Registro diario de práctica para el reto de **100 Días de DevOps** con [KodeKl
 
 **Stack cubierto:** `Linux` · `Docker` · `Kubernetes` · `Terraform` · `CI/CD`
 
-**Progreso:** 0/100 días completados 🟢
+**Progreso:** 0/100 días completados
 
 ---
 
-## 🗂️ Índice de Días
+## Índice de Días
 
 | Día | Tema | Foco | Estado |
 |---|---|---|---|
@@ -37,7 +37,7 @@ Registro diario de práctica para el reto de **100 Días de DevOps** con [KodeKl
 
 ---
 
-## 🏷️ Tags
+## Tags
 
 `#kodekloud` `#docker` `#kubernetes` `#terraform` `#devops` `#100diasdedevops`
 
@@ -45,5 +45,5 @@ Registro diario de práctica para el reto de **100 Días de DevOps** con [KodeKl
 
 ## 🔗 Recursos
 
-- 📘 [KodeKloud](https://kodekloud.com/)
-- 📌 [Reto oficial 100 Days of DevOps](https://kodekloud.com/)
+- [KodeKloud](https://kodekloud.com/)
+- [Reto oficial 100 Days of DevOps](https://kodekloud.com/)
