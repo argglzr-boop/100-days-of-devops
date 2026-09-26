@@ -66,6 +66,6 @@ docker ps -a
 <div align="center">
 
 ---
-[Día anterior](#) · [Índice general](#) · [Día siguiente](#)
+[Día anterior](#) · [Índice general](./README.MD) · [Día siguiente](#)
 
 </div>
