@@ -1,4 +1,4 @@
-# 🗓️ Día [XX] — [Nombre del Tema / Reto de KodeKloud]
+# Día [XX] — [Nombre del Tema / Reto de KodeKloud]
 
 **Foco:** Docker
 **Fecha:** DD/MM/AAAA
