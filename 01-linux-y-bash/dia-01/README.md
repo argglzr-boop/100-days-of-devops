@@ -1,15 +1,8 @@
 # 🗓️ Día [XX] — [Nombre del Tema / Reto de KodeKloud]
 
-<div align="center">
-
-![Foco](https://img.shields.io/badge/Foco-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Estado](https://img.shields.io/badge/Estado-En%20progreso-yellow?style=for-the-badge)
-![Fecha](https://img.shields.io/badge/Fecha-DD/MM/AAAA-informational?style=for-the-badge)
-
-</div>
-
-> Cambia el badge de **Foco** según corresponda: `Linux` `Docker` `Kubernetes` `Terraform` `CI/CD`
-> Cambia el color/texto de **Estado**: 🟡 `En progreso` · 🟢 `Completado` · 🔴 `Bloqueado`
+**Foco:** Docker
+**Fecha:** DD/MM/AAAA
+**Estado:** 🟡 En progreso
 
 ---
 
