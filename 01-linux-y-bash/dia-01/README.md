@@ -2,7 +2,6 @@
 
 **Foco:** Docker
 **Fecha:** DD/MM/AAAA
-**Estado:** 🟡 En progreso
 
 ---
 
