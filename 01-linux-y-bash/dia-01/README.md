@@ -72,7 +72,6 @@ su - devops_user
 ## 🔗 Recursos y Artefactos
 
 - [Laboratorio de KodeKloud](https://kodekloud.com/)
-- 
 - [Man page: usermod(8)](https://man7.org/linux/man-pages/man8/usermod.8.html)
 
 
