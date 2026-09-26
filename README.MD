@@ -14,9 +14,9 @@ Registro diario de práctica para el reto de **100 Días de DevOps** con [KodeKl
 
 | Día | Tema | Foco | Estado |
 |---|---|---|---|
-| [01](./dias/dia-01/) | [Nombre del reto] | Docker | 🟡 En progreso |
-| [02](./dias/dia-02/) | [Nombre del reto] | Linux | ⬜ Pendiente |
-| [03](./dias/dia-03/) | [Nombre del reto] | Kubernetes | ⬜ Pendiente |
+| [01](./01-linux-y-bash/dia-01/) | [Nombre del reto] | Docker | 🟡 En progreso |
+| [02](./01-linux-y-bash/dia-02/) | [Nombre del reto] | Linux | ⬜ Pendiente |
+| [03](./01-linux-y-bash/dia-03/) | [Nombre del reto] | Kubernetes | ⬜ Pendiente |
 
 ---
 
