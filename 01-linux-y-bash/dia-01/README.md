@@ -58,7 +58,9 @@ su - devops_user
 ## 📝 Conclusiones y Aprendizaje
 
 - **Principio de menor privilegio (PoLP):** Las cuentas de servicio para bases de datos, agentes CI/CD o daemons web nunca deben tener /bin/bash o /bin/sh como shell predeterminada.
+
 - **Diferencia entre /sbin/nologin y /bin/false:** Mientras que /sbin/nologin notifica educadamente que la cuenta no está disponible, /bin/false simplemente devuelve un estado de salida fallido de inmediato.
+
 - **Validación defensiva:** Siempre verificar el archivo /etc/passwd o usar getent passwd  tras aprovisionar cuentas vía scripts de automatización. 
 
 ---
