@@ -37,13 +37,13 @@ docker ps -a
 ## ⚠️ Retos y Solución de Problemas
 
 > [!WARNING]
-> **🧩 Problema:**
+> **Problema:**
 > [Descripción del error o bloqueo encontrado]
 
-**🔍 Causa raíz:**
+**Causa raíz:**
 [Explicación del origen del problema]
 
-**✅ Solución aplicada:**
+**Solución aplicada:**
 [Pasos o comando que resolvió el problema]
 
 ```bash
@@ -54,9 +54,9 @@ docker ps -a
 
 ## 📝 Conclusiones y Aprendizaje
 
-- [ ] 💡 [Aprendizaje técnico principal o comando nuevo descubierto]
-- [ ] 🌟 [Buena práctica identificada durante el ejercicio]
-- [ ] 🔁 [Algo que repasarías / practicarías de nuevo]
+- [Aprendizaje técnico principal o comando nuevo descubierto]
+- [Buena práctica identificada durante el ejercicio]
+- [Algo que repasarías / practicarías de nuevo]
 
 ---
 
@@ -68,12 +68,12 @@ docker ps -a
 
 ## 🔗 Recursos y Artefactos
 
-- 📘 [Laboratorio de KodeKloud](https://kodekloud.com/)
-- 📁 [Archivos de configuración del día](./)
+- [Laboratorio de KodeKloud](https://kodekloud.com/)
+- [Archivos de configuración del día](./)
 
 <div align="center">
 
 ---
-⬅️ [Día anterior](#) · 🏠 [Índice general](#) · ➡️ [Día siguiente](#)
+[Día anterior](#) · [Índice general](#) · [Día siguiente](#)
 
 </div>
