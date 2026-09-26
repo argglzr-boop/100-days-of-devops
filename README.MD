@@ -10,13 +10,13 @@ Registro diario de práctica para el reto de **100 Días de DevOps** con [KodeKl
 
 ## Índice de Días
 
+**Leyenda:** ✅ Completado · 🟡 En progreso · ⬜ Pendiente · 🔴 Bloqueado
+
 | Día | Tema | Foco | Estado |
 |---|---|---|---|
 | [01](./dias/dia-01/) | [Nombre del reto] | 🐳 Docker | 🟡 En progreso |
 | [02](./dias/dia-02/) | [Nombre del reto] | 🐧 Linux | ⬜ Pendiente |
 | [03](./dias/dia-03/) | [Nombre del reto] | ☸️ Kubernetes | ⬜ Pendiente |
-
-**Leyenda:** ✅ Completado · 🟡 En progreso · ⬜ Pendiente · 🔴 Bloqueado
 
 ---
 
