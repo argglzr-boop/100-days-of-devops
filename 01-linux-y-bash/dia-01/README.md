@@ -10,10 +10,10 @@
 
 ## 💻 Práctica y Comandos Principales
 
-\`\`\`bash
+```bash
 docker run -d --name mi-app -p 8080:80 nginx:alpine
 docker ps -a
-\`\`\`
+```
 
 ## ⚠️ Retos y Solución de Problemas (Troubleshooting)
 
